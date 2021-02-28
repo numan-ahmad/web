@@ -111,7 +111,7 @@
 }
 .about{
     position: relative;
-    height: 450px;
+    height: 500px;
     width: 100%;
     background-color:#e5e5e5;
 }
@@ -134,7 +134,189 @@
   margin: 4px 2px;
   cursor: pointer;
   position: absolute;
-  bottom:50px;
+  bottom:70px;
   left: 44%;
 
+}
+
+.picpart{
+    width: 100%;
+    height: 700px;
+    background-image: url("pic3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.content{
+    width: 30%;
+    height: 500px;
+    background-color: #eac60b;
+    position: absolute;
+    top: 70px;
+    left: 100px;
+}
+
+.collection_pic{
+    position:relative;
+    width: 100%;
+    height: 900px;
+    background-color: #f2f2f2;
+    background-image: url("pic4.jpg");
+    background-image: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.heading_para{
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.first-pic1{
+    margin-left: 150px;
+    margin-top: 300px;
+    width: 400px;
+    height: 500px;
+    background-color:#f2f2f2;
+    
+    float: left;
+    display: inline;
+}
+.first-pic2{
+    margin-left: 30px;
+    margin-top: 300px;
+    float: left;
+    width: 400px;
+    height: 500px;
+    background-color:#f2f2f2;
+    
+    display: inline;
+}
+.first-pic3{
+    margin-left: 30px;
+    margin-top: 300px;
+    float: left; 
+    width: 400px;
+    height: 500px;
+    background-color:#f2f2f2;
+    
+}
+.about_pic_wraper{
+    position: relative;
+    width: 100%;
+    height: 800px;
+}
+.gry_box{
+    height: 800px;
+    width: 50%;
+    float: left;
+    background-color: #f2f2f2;
+}
+.white_box{
+    height: 800px;
+    width: 50%;
+    float: right;
+    background-color: white;
+}
+.yellow_box{
+    height:500px;
+    width: 40%;
+    left: 15%;
+    top:30%;
+    position: absolute;
+    background-color: #eac60b;;
+}
+.black_part_services{
+    height: 1000px;
+    width: 100%;
+    position: relative;
+    background-color:#1A1A1A;
+}
+.Para_1{
+    margin-left: 20%;
+    margin-top: 13%;
+    height:290px;
+    width:370px;
+    float: left;
+    display: inline;
+
+}
+.Para_2{
+    margin-left: 2%;
+    margin-top: 13%;
+    height:290px;
+    width:370px;
+    float: left;
+    display: inline;
+    
+}
+.Para_3{
+    margin-left: 2%;
+    margin-top: 13%;
+    height:290px;
+    width:370px;
+    float: left;
+    display: inline;
+    
+}
+.Para_4{
+    margin-left: 20%;
+    margin-top: 2%;
+    height:290px;
+    width:370px;
+    float: left;
+    display: inline;
+
+}
+.Para_5{
+    margin-left: 2%;
+    margin-top: 2%;
+    height:290px;
+    width:370px;
+    float: left;
+    display: inline;
+    
+}
+.Para_6{
+    margin-left: 2%;
+    margin-top: 2%;
+    height:290px;
+    width:370px;
+    float: left;
+    display: inline;
+    
+}
+
+.contact_part{
+    width: 100%;
+    position: relative;
+    height: 800px;
+    background-color:#1A1A1A;
+}
+.submit_part{
+    width: 50%;
+    height: 550px;
+    background-color: white;
+    position: absolute;
+    right: 170px;
+    top: 10%;
+}
+.contact_detalis{
+    position: absolute;
+    background-color: #eac60b;
+    height: 430px;
+    width: 25%;
+    left: 20%;
+    top: 16%;
+
+}
+
+.site_created{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: #333333;
 }
